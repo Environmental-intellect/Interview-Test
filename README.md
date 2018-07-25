@@ -5,8 +5,10 @@ Download a copy of this repo to start. When finished, please create a github rep
 
 Documentation and Testing are quite important.
 
+Please use Node.js for the backend components, and any tools / framework you choose for the frontend. 
 
-# Test #1
+
+# Test #1: Node JS
 
 Using the open "API" provided here: https://jsonplaceholder.typicode.com/
 
